@@ -1,6 +1,7 @@
 <p align="center">
   <img src="docs/logo.png" alt="SpudDoc AI Logo" width="120"/>
 </p>
+
 # SpudDoc AI
 
 > An automated potato leaf disease detection system powered by deep learning, built to protect Nepal's harvest.
